@@ -1,0 +1,6 @@
+# Ignore data and notebook cache files
+*.csv
+*.xlsx
+*.doc
+*.pdf
+.ipynb_checkpoints/
